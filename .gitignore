@@ -1,5 +1,5 @@
 # IDE list
-*.iml
+#*.iml
 .gradle
 /local.properties
 /.idea/caches
@@ -13,7 +13,7 @@
 /captures
 .externalNativeBuild
 .cxx
-local.properties
+#local.properties
 
 # Gradle files
 .gradle/
@@ -49,8 +49,3 @@ google-services.json
 
 # Android Profiling
 *.hprof
-
-# Personal
-gradlew
-gradlew.bat
-gradle/wrapper/
