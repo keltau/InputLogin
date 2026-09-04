@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">InputLogin</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="login_description">Autofill or enter the credentials to send as USB keyboard input.</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="german_dead_keys">German dead-key handling</string>
+    <string name="german_dead_keys_description">Terminates ^, `, and ´ with a space so they are typed literally on German layouts.</string>
+    <string name="clear_and_reload">Clear fields and reload autofill</string>
+    <string name="manual_connection_description">Handle the InputStick connection manually through InputStickUtility.</string>
+    <string name="send_username">Send username</string>
+    <string name="press_tab">Press Tab</string>
+    <string name="press_enter">Press Enter</string>
+    <string name="send_password">Send password</string>
+    <string name="username_required">Enter or autofill a username</string>
+    <string name="password_required">Enter or autofill a password</string>
 </resources>

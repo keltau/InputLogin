@@ -29,11 +29,14 @@ android {
         sourceCompatibility = JavaVersion.VERSION_11
         targetCompatibility = JavaVersion.VERSION_11
     }
+    lint {
+        disable += "ExpiredTargetSdkVersion"
+    }
 }
 
 dependencies {
-    implementation(libs.activity.ktx)
     implementation(libs.appcompat)
+    implementation(libs.core)
     implementation(libs.constraintlayout)
     implementation(libs.material)
     testImplementation(libs.junit)
