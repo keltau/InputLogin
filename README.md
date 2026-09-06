@@ -1,6 +1,6 @@
 # InputLogin
 
-InputLogin is an Android companion app for the InputStick. It acts as a bridge between a password manager supporting autofill and the InputStick.
+InputLogin is a InputStick companion app for Android. It acts as a bridge between a password manager supporting autofill and the InputStick.
 It provides the user with a login form and buttons to send the login data to the target device featuring a InputStick.
 
 ## Use Cases 
