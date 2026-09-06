@@ -11,7 +11,7 @@ It provides the user with a login form and buttons to send the login data to the
 
 - An [InputStick](https://www.inputstick.com/) connected to the target computer or device.
 - A mobile device running Android.
-- [InputStickUtility](https://github.com/inputstick/InputStickAPI-Android) installed and configured.
+- InputStickUtility (download from [website](https://www.inputstick.com/download/) or [PlayStore](https://play.google.com/store/apps/details?id=com.inputstick.apps.inputstickutility) ) installed and configured.
 - (Optional) A password manager that supports Android Autofill.
 
 ## Usage
@@ -24,12 +24,11 @@ It provides the user with a login form and buttons to send the login data to the
 
 ## Screenshots
 
-![InputLogin day themed screen](./README/day.png)
-
-![InputLogin night themed screen](./README/night.png)
-
-![InputLogin with keyboard open](./README/keyboard.png)
-
+<table><tr>
+<td><img src='./README/day.png' alt="InputLogin day themed screen"></td>
+<td><img src='./README/night.png' alt="InputLogin night themed screen"></td>
+<td><img src='./README/keyboard.png' alt="InputLogin with keyboard open"></td>
+</tr></table>
 
 ## Keyboard layout
 
